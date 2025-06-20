@@ -20,3 +20,6 @@
   > The event service keep `track of changes happening to resources in your tenancy`. And then you can take automated action based on that change. As an example, let's say you are uploading a file into the object storage bucket. And then using the event service, you can trigger an action to convert that file into a different format. 
 - ### operations insights
   >Operations insights is another native service that gives you insights into resource utilization for achieving better capacity planning for your host and databases.
+
+
+s
