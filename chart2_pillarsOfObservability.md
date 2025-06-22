@@ -22,4 +22,22 @@
   >Operations insights is another native service that gives you insights into resource utilization for achieving better capacity planning for your host and databases.
 
 
-s
+# skill checks
+
+1. Which is a use case for Oracle Cloud Infrastructure Logging Analytics service?
+   
+   :white_check_mark: Monitor, aggregate, index, and analyze log data.
+
+   :white_large_square: Label data packets that pass through the Internet gateway.
+
+   :white_large_square: Automatically create instances to collect logs, and analyze and send reports.
+
+   :white_large_square: Automate and manage any logs based on a subscription model.
+
+2. Which service enables you to send alerts through email for metrics that are monitored by using the Monitoring service?
+
+    :white_check_mark: Notification
+
+3. Which Observability and Management service keeps track of changes happening to resources in your tenancy and enables you to take automated actions based on that change?
+   
+    :white_check_mark: Events
